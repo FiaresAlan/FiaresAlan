@@ -1,6 +1,6 @@
 
 <p align="center">
-<img width="1280" height="300" alt="Banner Alan Fiares" src="![Exo 2 (7)](https://github.com/user-attachments/assets/8f2b3eef-4504-41fd-8666-dad8a8eae5f0)" />
+<img width="1280" height="300" alt="Banner Alan Fiares" src="https://github.com/user-attachments/assets/8f2b3eef-4504-41fd-8666-dad8a8eae5f0" />
 </p>
 
 <h1 align="center"> Hey! I'm Alan Fiares 👋</h1>
