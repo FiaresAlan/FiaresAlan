@@ -1,6 +1,6 @@
 
 <p align="center">
-<img width="1280" height="300" alt="Banner Alan Fiares" src="https://github.com/user-attachments/assets/4fa5683d-06ce-4945-8b3a-e078ac960f56" />
+<img width="1280" height="300" alt="Banner Alan Fiares" src="![Exo 2 (7)](https://github.com/user-attachments/assets/8f2b3eef-4504-41fd-8666-dad8a8eae5f0)" />
 </p>
 
 <h1 align="center"> Hey! I'm Alan Fiares 👋</h1>
@@ -9,6 +9,7 @@
   <br />
   Currently focused on projects with RAG and GCP.
 </p>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/alandelimafiares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
