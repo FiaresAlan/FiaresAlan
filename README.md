@@ -3,7 +3,6 @@
 <img width="1280" height="300" alt="Banner Alan Fiares" src="https://github.com/user-attachments/assets/4fa5683d-06ce-4945-8b3a-e078ac960f56" />
 </p>
 
-## Hey! I'm Alan,  Currently focused on projects with RAG and GCP.
 <h1 align="center"> Hey! I'm Alan Fiares 👋</h1>
 <p align="center">
   a back-end developer and intern passionate about Python, AI, and cloud solutions.
