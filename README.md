@@ -3,14 +3,11 @@
 <img width="1280" height="300" alt="Banner Alan Fiares" src="https://github.com/user-attachments/assets/f036799d-138a-4d45-ad0e-4fcdfe1a0d4e"/>
 </p>
 
-<h1 align="center"> Hey! I'm Alan Fiares 👋</h1>
 <p align="center">
-  a back-end developer and intern passionate about Python, AI, and cloud solutions.
+  I'm a back-end developer and intern passionate about Python, AI, and cloud solutions.
   <br />
   Currently focused on projects with RAG and GCP.
 </p>
-
-
 
 <p align="center">
   <a href="https://linkedin.com/in/alandelimafiares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
