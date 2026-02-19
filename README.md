@@ -4,9 +4,8 @@
 </p>
 
 <p align="center">
-  I'm a back-end developer and intern passionate about Python, AI, and cloud solutions.
+  I'm a DevOps passionate about Python and cloud solutions.
   <br />
-  Currently focused on projects with RAG and GCP.
 </p>
 
 <p align="center">
